@@ -7,7 +7,7 @@ email_pass = ''
 
 email_receiver = 'cejeje4205@canyona.com'
 
-subject = "Email with Python"
+subject = "Email With Python"
 body = """
 This is a test to send an email using pyhton.
 """
